@@ -1,5 +1,11 @@
 <?php
 
+// and
+// or
+// xor
+// &&
+// ||
+
 $a = true;
 $b = false;
 
